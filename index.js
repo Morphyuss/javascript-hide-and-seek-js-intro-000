@@ -1,5 +1,5 @@
 function getFirstSelector(selector) {
-document.getElementById('head');
+document.getElementById('ul');
 }
 
 
