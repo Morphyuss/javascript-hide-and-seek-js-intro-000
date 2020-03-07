@@ -1,5 +1,5 @@
 function getFirstSelector(selector) {
-  document.getElementById('title');
+   return document.getElementById('title');
 }
 
 
